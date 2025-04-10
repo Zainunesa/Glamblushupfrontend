@@ -1,10 +1,20 @@
 # Glam BlushUp - Makeup Store Website (Module 3)
 
+![Screenshot of Homepage](https://github.com/Zainunesa/Glamblushupfrontend/blob/main/src/assets/image1.png)
+
 **Glam BlushUp** is a modern e-commerce platform dedicated to selling makeup products for everyone—women, men, and kids. It is an all-inclusive, one-stop shop for all your makeup needs. Our goal is to provide a seamless shopping experience with a responsive design and a fully functional shopping cart system. **Glam BlushUp** offers easy navigation, secure user authentication, and a user-friendly catalog to make shopping for makeup products a breeze.
 
----
 
-## 🚀 **Requirements**
+
+## Table of Contents
+- [Live Demo](#live-demo)
+- [Technologies Used](#technologies-used)
+- [Setup Instructions](#setup-instructions)
+- [Key Features](#key-features)
+- [Credits](#credits)
+- [Author](#author)
+
+## 🚀 **Requirements and Technology Used**
 
 - **Node.js** (Version 14.x or later recommended)
 - **MySQL Database**
@@ -12,10 +22,10 @@
 - **npm** (Node Package Manager)
 
 <hr style="border: 2px solid #000;">
----
+
 
 ## 📦 **Dependencies**
-
+This is to be added in the terminal in VS Code after cloning the repository. These are needed in order to run the web application.
 ### **Backend**
 ```bash
 npm i
@@ -218,6 +228,14 @@ CVV:123
 </div>
 
 ---
+
+  ## Potential Improvements
+[List of ideas for future enhancements, such as:]
+* Styling (CSS could be improved)
+
+## Credits
+HTML/CSS/JS/Bootstrap
+
 
 ## 📝 **Additional Notes**
 - The system allows customers to shop, add products, and book a stylist.

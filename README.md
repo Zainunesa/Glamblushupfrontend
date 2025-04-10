@@ -29,14 +29,6 @@ This is to be added in the terminal in VS Code after cloning the repository. The
 ### **Backend**
 ```bash
 npm i
-npm i bcryptjs
-npm i node
-npm i mysql2
-npm i express
-npm i dotenv
-npm i cors
-npm install jsonwebtoken  
-npm init -y
 ```
 
 ### **Frontend**
@@ -236,7 +228,11 @@ CVV:123
 * Styling (CSS could be improved)
 
 ## Credits
-HTML/CSS/JS/Bootstrap
+Life Choices Academy
+**Zainunesa Magmoed,** 
+**Cwayita Ngcwayi,** 
+**Nandipha Zigwebile,** 
+**Usisipho Mxinwa**
 
 
 ## 📝 **Additional Notes**

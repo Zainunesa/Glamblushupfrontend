@@ -228,7 +228,7 @@ CVV:123
 * Styling (CSS could be improved)
 
 ## Credits
-Life Choices Academy
+Life Choices Academy - in collaboration with:
 **Zainunesa Magmoed,** 
 **Cwayita Ngcwayi,** 
 **Nandipha Zigwebile,** 

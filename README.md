@@ -192,7 +192,9 @@ http://localhost:8080/
 ```
 ## **Payment Credentials**
 Card Number: 4111111111111111 (4111 1111 1111 1111)
+
 Expiry Date (MM/YY): 12/25
+
 CVV:123
 ---
 
